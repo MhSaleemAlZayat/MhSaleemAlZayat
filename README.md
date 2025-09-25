@@ -1,5 +1,5 @@
 ### Hi everybody 👋, hope you find what you are looking for 🧐
-![mishmanners gaming room - gif of my actual gaming room setup](https://github.com/MhSaleemAlZayat/MhSaleemAlZayat/blob/main/5a8dae5e-24f5-4e70-a519-23d447ce646d.png)
+![mishmanners gaming room - gif of my actual gaming room setup](avatar2.png)
 
 <!--
 **MhSaleemAlZayat/MhSaleemAlZayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
