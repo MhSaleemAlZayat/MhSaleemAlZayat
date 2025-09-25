@@ -1,7 +1,7 @@
 ### Hi everybody 👋, hope you find what you are looking for 🧐
-![mishmanners gaming room - gif of my actual gaming room setup](avatar2.png)
 
-<!--
+<!--![mishmanners gaming room - gif of my actual gaming room setup](avatar2.png)
+
 **MhSaleemAlZayat/MhSaleemAlZayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
